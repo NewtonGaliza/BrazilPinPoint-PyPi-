@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="brazilpinpoint",
-    version="0.0.1",
+    version="1.0.6",
     author="Newton Galiza",
     author_email="newtonjgaliza@gmail.com",
     description="Using a latitude and longitude a pin point is marked on Brazil map",
