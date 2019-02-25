@@ -7,7 +7,7 @@ pip install brazilpinpoint
 
 ## How to use
 
-python brazilpinpoint --lat <lat number> long <long number> --filename <enter a file name>
+python brazilpinpoint --lat <lat number> --long <long number> --filename <enter a file name>
 
 ## Screenshot
 
